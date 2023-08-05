@@ -14,7 +14,7 @@ Web Scraping:  BeautifulSoup, Requests.
  **- Fake News Detection - Text Analytics** This project involves detecting fake news in news articles. Labeled datasets, containing articles marked as "fake" or "real" news, are being worked on. An article from CNN Politics and political posts and news from Reddit has been obtained for analysis. The project is divided into two parts. First, the labeled dataset is analyzed and prepared to train and test supervised algorithms. Then, the same pre-trained algorithms are applied to the CNN Politics article and Reddit data to detect fake news. The goal is to identify fake news in these datasets and combat misinformation.
 
 ##### Collected Data 
-   <img width="300" alt="Screen Shot 2023-01-14 at 12 25 17 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/37045d6d-f264-4675-b46a-17f9c18ede33">
+<img width="300" alt="Screen Shot 2023-01-14 at 12 25 17 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/37045d6d-f264-4675-b46a-17f9c18ede33">
 
 ##### EDA 
 <img width="300" alt="Screen Shot 2023-01-14 at 12 27 00 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/b2cedfcb-cda7-4b7d-971e-59bab3ab7b39">
