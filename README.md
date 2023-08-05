@@ -13,10 +13,10 @@ Web Scraping:  BeautifulSoup, Requests.
 
  **- Fake News Detection - Text Analytics** This project involves detecting fake news in news articles. Labeled datasets, containing articles marked as "fake" or "real" news, are being worked on. An article from CNN Politics and political posts and news from Reddit has been obtained for analysis. The project is divided into two parts. First, the labeled dataset is analyzed and prepared to train and test supervised algorithms. Then, the same pre-trained algorithms are applied to the CNN Politics article and Reddit data to detect fake news. The goal is to identify fake news in these datasets and combat misinformation.
 
- ##### Collected Data 
- <img width="300" alt="Screen Shot 2023-01-14 at 12 25 17 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/37045d6d-f264-4675-b46a-17f9c18ede33">
+##### Collected Data 
+   <img width="300" alt="Screen Shot 2023-01-14 at 12 25 17 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/37045d6d-f264-4675-b46a-17f9c18ede33">
 
- ##### EDA 
+##### EDA 
 <img width="300" alt="Screen Shot 2023-01-14 at 12 27 00 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/b2cedfcb-cda7-4b7d-971e-59bab3ab7b39">
 <img width="300" alt="Screen Shot 2023-01-14 at 12 27 52 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/d3710fc1-0074-406b-b32a-5113b39d7b93">
 
@@ -27,7 +27,7 @@ Web Scraping:  BeautifulSoup, Requests.
 ##### Final Report
 <img width="300" alt="Screen Shot 2023-01-14 at 12 31 54 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/46743f2f-7ddf-4bf2-a431-a507ca894a02">
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 **- Multilingual Chatbot Movie Recommendation System - ML & NLP:** Develop a smart movie recommendation chatbot that processes and understands text in multiple languages, aiming to entertain users and solve the NLP challenge of effectively grasping human text, especially in Arabic. This chatbot will cater to non-English speakers in Arabia and India, providing helpful movie recommendations in their native language.
 
@@ -46,6 +46,8 @@ Web Scraping:  BeautifulSoup, Requests.
 
 ##### EDA 
 <img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/d051c2fe-66e0-4662-b6bf-786dd3104c98" width="300">
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **- Telecom Customer Churn (Classification Task) -  7 ML Algorithms & Ensemble Technique:** Predicting customer churn is crucial for telecom companies to retain existing customers. By identifying "high-risk" clients in advance, the project aims to offer a solution that helps reduce customer churn. This approach allows the bank to focus on personalized retention efforts, ultimately aiming to expand its coverage and increase customer loyalty in this highly competitive market.
 
@@ -67,6 +69,7 @@ Web Scraping:  BeautifulSoup, Requests.
 ##### Report
 <img width="500" alt="FinalReport" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/2b3b21c2-8305-472d-ab1a-919777aa5b3d">
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **- US Human Resources (HR) Data Analysis:** Insights into the US workforce were explored and examined. Various factors, such as gender distribution, education fields, and age groups, were studied, along with key numerical metrics related to the employees. Through thorough examination and visualization, valuable information was gained, shedding light on the composition and characteristics of the workforce.
 
@@ -85,7 +88,7 @@ Web Scraping:  BeautifulSoup, Requests.
 ##### Report 
 <img width="500" alt="FinalReport" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/1f783fb6-64ef-4ea9-a907-bbdb531948e6">
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **- Twitter & Reddit data Analysis - NLP & Clustering:**  Users' comments from the Reddit app and tweets from Twitter were gathered and subjected to sentiment analysis and text clustering using K-means and Hierarchical Clustering Algorithms (HCA). The optimum number of clusters was identified, and the top 10 most frequent words were listed and visualized through word clouds. Valuable insights into user sentiments and content were gained from the analysis.
 
