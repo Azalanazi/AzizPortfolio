@@ -48,12 +48,12 @@ Web Scraping:  BeautifulSoup, Requests.
 
 **- Twitter & Reddit data Analysis - NLP & Clustering:**  Users' comments from the Reddit app and tweets from Twitter were gathered and subjected to sentiment analysis and text clustering using K-means and Hierarchical Clustering Algorithms (HCA). The optimum number of clusters was identified, and the top 10 most frequent words were listed and visualized through word clouds. Valuable insights into user sentiments and content were gained from the analysis.
 
-### Twitter Data
+##### Twitter Data
 <img width="949" alt="TwitterData" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/c8406824-1f98-406f-803a-1de0f86b7975">
 
-### Reddit Comments WordCloud
+##### Reddit Comments WordCloud
 ![WoedCloud Redditcomments](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/54542aa5-2291-46b8-a9d9-f2660155566a)
 
-### Twitter Tweets WordCloud
+##### Twitter Tweets WordCloud
 ![WordCloud Tweets](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/2f635532-9e2a-4dab-99e1-66f2026b2af0)
 
