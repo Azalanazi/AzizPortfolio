@@ -6,10 +6,10 @@ I'm Abdulaziz Alanazi, a 26-year-old data scientist from Saudi Arabia. I'm thril
 
 <img width="600" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/5a442760-21f7-4753-be34-5ca056a1aa84">   
 
-                                                                                                                          Ksa= +966547858701
-                                                                                                                          US= +17209982855                             
-                                                                                                                          Email: Abdulaziz.edu11@gmail.com
-                                                                                                                          
+
+                                                                                             Ksa= +966547858701
+                                                                                             US= +17209982855                             
+                                                                                             Email: Abdulaziz.edu11@gmail.com                                                                                                                          
                                                                                                                           
 ______________________________________________________________________________________________________________________________
 
