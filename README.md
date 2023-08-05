@@ -11,7 +11,7 @@ Web Scraping:  BeautifulSoup, Requests.
 
 #### Machine Learning & NLP: 
 
- **- Text Analytics - Topic Modeling of the Text:** Topic models can help to organize and offer insights for us to understand large collections of unstructured text bodies. Crawled 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004-2005.
+ **- Fake News Detection - Text Analytics** This project involves detecting fake news in news articles. Labeled datasets, containing articles marked as "fake" or "real" news, are being worked on. An article from CNN Politics and political posts and news from Reddit has been obtained for analysis. The project is divided into two parts. First, the labeled dataset is analyzed and prepared to train and test supervised algorithms. Then, the same pre-trained algorithms are applied to the CNN Politics article and Reddit data to detect fake news. The goal is to identify fake news in these datasets and combat misinformation.
  
 **- Multilingual Chatbot Movie Recommendation System - ML & NLP:** Develop a smart movie recommendation chatbot that processes and understands text in multiple languages, aiming to entertain users and solve the NLP challenge of effectively grasping human text, especially in Arabic. This chatbot will cater to non-English speakers in Arabia and India, providing helpful movie recommendations in their native language.
 
