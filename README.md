@@ -24,10 +24,10 @@ Web Scraping:  BeautifulSoup, Requests.
 **- Multilingual Chatbot Movie Recommendation System - ML & NLP:** Develop a smart movie recommendation chatbot that processes and understands text in multiple languages, aiming to entertain users and solve the NLP challenge of effectively grasping human text, especially in Arabic. This chatbot will cater to non-English speakers in Arabia and India, providing helpful movie recommendations in their native language.
 
 
-![Arabic Actors](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/c191c5f6-b29c-40f9-9ec6-981dbd086566)
-![English Actors](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/90fc37e0-bed9-4346-8a02-67e0b9da2ced)
-![English Genres](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/8ec0207f-d5a1-4e3a-8b66-73dc7afe30b5)
-![Visulize Practicum](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/d051c2fe-66e0-4662-b6bf-786dd3104c98)
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/c191c5f6-b29c-40f9-9ec6-981dbd086566" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/90fc37e0-bed9-4346-8a02-67e0b9da2ced" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/8ec0207f-d5a1-4e3a-8b66-73dc7afe30b5" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/d051c2fe-66e0-4662-b6bf-786dd3104c98" width="300">
 
 **- Telecom Customer Churn (Classification Task) -  7 ML Algorithms & Ensemble Technique:** Predicting customer churn is crucial for telecom companies to retain existing customers. By identifying "high-risk" clients in advance, the project aims to offer a solution that helps reduce customer churn. This approach allows the bank to focus on personalized retention efforts, ultimately aiming to expand its coverage and increase customer loyalty in this highly competitive market.
 
@@ -41,7 +41,19 @@ Web Scraping:  BeautifulSoup, Requests.
 
 **- US Human Resources (HR) Data Analysis:** Insights into the US workforce were explored and examined. Various factors, such as gender distribution, education fields, and age groups, were studied, along with key numerical metrics related to the employees. Through thorough examination and visualization, valuable information was gained, shedding light on the composition and characteristics of the workforce.
 
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/4ec54a61-0d06-480d-927a-d054fa838acd" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/bb5343f6-81f0-4520-8689-b56e7b493563" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/f6bf2a78-91b4-4ed8-92b5-405b268d109e" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/56859e3e-f7e1-4c43-8baa-accacd0af2cc" width="300">
+
 **- Twitter & Reddit data Analysis - NLP & Clustering:**  Users' comments from the Reddit app and tweets from Twitter were gathered and subjected to sentiment analysis and text clustering using K-means and Hierarchical Clustering Algorithms (HCA). The optimum number of clusters was identified, and the top 10 most frequent words were listed and visualized through word clouds. Valuable insights into user sentiments and content were gained from the analysis.
 
+### Twitter Data
+<img width="949" alt="TwitterData" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/c8406824-1f98-406f-803a-1de0f86b7975">
 
+### Reddit Comments WordCloud
+![WoedCloud Redditcomments](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/54542aa5-2291-46b8-a9d9-f2660155566a)
+
+### Twitter Tweets WordCloud
+![WordCloud Tweets](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/2f635532-9e2a-4dab-99e1-66f2026b2af0)
 
