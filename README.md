@@ -23,7 +23,21 @@ Web Scraping:  BeautifulSoup, Requests.
  
 **- Multilingual Chatbot Movie Recommendation System - ML & NLP:** Develop a smart movie recommendation chatbot that processes and understands text in multiple languages, aiming to entertain users and solve the NLP challenge of effectively grasping human text, especially in Arabic. This chatbot will cater to non-English speakers in Arabia and India, providing helpful movie recommendations in their native language.
 
+
+![Arabic Actors](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/c191c5f6-b29c-40f9-9ec6-981dbd086566)
+![English Actors](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/90fc37e0-bed9-4346-8a02-67e0b9da2ced)
+![English Genres](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/8ec0207f-d5a1-4e3a-8b66-73dc7afe30b5)
+![Visulize Practicum](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/d051c2fe-66e0-4662-b6bf-786dd3104c98)
+
 **- Telecom Customer Churn (Classification Task) -  7 ML Algorithms & Ensemble Technique:** Predicting customer churn is crucial for telecom companies to retain existing customers. By identifying "high-risk" clients in advance, the project aims to offer a solution that helps reduce customer churn. This approach allows the bank to focus on personalized retention efforts, ultimately aiming to expand its coverage and increase customer loyalty in this highly competitive market.
+![Dsitribution of TotalCharges](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/8c8b8b56-ce6c-4f6e-af46-12d296aaedc2)
+![GenderChurn1](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/bcf0529a-b2ce-4c05-8986-01f5c415b3be)
+![PayementMethod](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/dea99ace-7341-45e7-94a8-6a6b3aa005f9)
+![ContractType](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/31203650-60b3-4c59-89c7-8ad39054d7bb)
+
+![ContractType](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/5b26b648-6697-4206-80b3-0ee93f0483bb)
+
+
 
 **- US Human Resources (HR) Data Analysis:** Insights into the US workforce were explored and examined. Various factors, such as gender distribution, education fields, and age groups, were studied, along with key numerical metrics related to the employees. Through thorough examination and visualization, valuable information was gained, shedding light on the composition and characteristics of the workforce.
 
