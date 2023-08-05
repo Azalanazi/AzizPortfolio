@@ -30,12 +30,12 @@ Web Scraping:  BeautifulSoup, Requests.
 ![Visulize Practicum](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/d051c2fe-66e0-4662-b6bf-786dd3104c98)
 
 **- Telecom Customer Churn (Classification Task) -  7 ML Algorithms & Ensemble Technique:** Predicting customer churn is crucial for telecom companies to retain existing customers. By identifying "high-risk" clients in advance, the project aims to offer a solution that helps reduce customer churn. This approach allows the bank to focus on personalized retention efforts, ultimately aiming to expand its coverage and increase customer loyalty in this highly competitive market.
-![Dsitribution of TotalCharges](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/8c8b8b56-ce6c-4f6e-af46-12d296aaedc2)
-![GenderChurn1](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/bcf0529a-b2ce-4c05-8986-01f5c415b3be)
-![PayementMethod](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/dea99ace-7341-45e7-94a8-6a6b3aa005f9)
-![ContractType](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/31203650-60b3-4c59-89c7-8ad39054d7bb)
 
-![ContractType](https://github.com/Azalanazi/AzizPortfolio/assets/89488361/5b26b648-6697-4206-80b3-0ee93f0483bb)
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/8c8b8b56-ce6c-4f6e-af46-12d296aaedc2" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/bcf0529a-b2ce-4c05-8986-01f5c415b3be" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/dea99ace-7341-45e7-94a8-6a6b3aa005f9" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/31203650-60b3-4c59-89c7-8ad39054d7bb" width="300">
+<img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/5b26b648-6697-4206-80b3-0ee93f0483bb" width="300">
 
 
 
