@@ -6,7 +6,6 @@ I'm Abdulaziz Alanazi, a 26-year-old data scientist from Saudi Arabia. I'm thril
 
 <img width="600" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/5a442760-21f7-4753-be34-5ca056a1aa84">   
 
-
                                                                                              Ksa= +966547858701
                                                                                              US= +17209982855                             
                                                                                              Email: Abdulaziz.edu11@gmail.com                                                                                                                          
@@ -14,14 +13,22 @@ I'm Abdulaziz Alanazi, a 26-year-old data scientist from Saudi Arabia. I'm thril
 ______________________________________________________________________________________________________________________________
 
 
-## Tools: 
+## [Literature Review in IoT Privacy Paper](https://medium.com/@abdulaziz.edu11/privacy-in-the-internet-of-things-iot-d524f169db16)
+
+Dive into my concise literature review paper, exploring the realm of the Internet of Things (IoT) and its data privacy concerns. Discover potential solutions like Blockchain integration and the role of mobile phones in enhancing security. Join me on this enlightening journey through the evolving world of IoT and its profound implications for the future. 
+
+
+_________________________________________________
+
+## Practical Projects: Data Analysis, Machine Learning, NLP.  
+
+
+#### Tools: 
 Python: Pandas, Numpy, Matplotlib, Seaborn, Tweepy, NLTK. 
+
 Machine Learning: Scikit-learn, Keras, TensorFlow. 
+
 Web Scraping:  BeautifulSoup, Requests.
-
-## Contents:
-
-#### Machine Learning & NLP: 
 
  **[- Fake News Detection - Text Analytics](https://github.com/Azalanazi/Fake-News-Detection/blob/main/Fake%20News%20Detection.ipynb)** This project involves detecting fake news in news articles. Labeled datasets, containing articles marked as "fake" or "real" news, are being worked on. An article from CNN Politics and political posts and news from Reddit has been obtained for analysis. The project is divided into two parts. First, the labeled dataset is analyzed and prepared to train and test supervised algorithms. Then, the same pre-trained algorithms are applied to the CNN Politics article and Reddit data to detect fake news. The goal is to identify fake news in these datasets and combat misinformation.
 
@@ -37,7 +44,8 @@ Web Scraping:  BeautifulSoup, Requests.
 <img width="300" alt="Screen Shot 2023-01-14 at 12 30 51 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/9e3b3e47-c317-4911-9e1f-8c519f35b72f">
 
 ##### Final Report
-<img width="300" alt="Screen Shot 2023-01-14 at 12 31 54 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/46743f2f-7ddf-4bf2-a431-a507ca894a02">
+<img width="400" alt="Screen Shot 2023-01-14 at 12 31 54 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/17cbe1cf-e166-4253-990d-1ae45cf77644">
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
@@ -59,6 +67,11 @@ Web Scraping:  BeautifulSoup, Requests.
 ##### EDA 
 <img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/d051c2fe-66e0-4662-b6bf-786dd3104c98" width="300">
 
+##### Report
+<img width="600" alt="Screen Shot 2023-08-06 at 3 54 20 PM" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/ce674b66-f30b-445c-b68c-fd9a248c981f">
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[- Telecom Customer Churn (Classification Task) -  7 ML Algorithms & Ensemble Technique:](https://github.com/Azalanazi/Telecom-Customer-Churn/blob/main/Telecom%20Customer%20Churn%20Analysis.ipynb)** Predicting customer churn is crucial for telecom companies to retain existing customers. By identifying "high-risk" clients in advance, the project aims to offer a solution that helps reduce customer churn. This approach allows the bank to focus on personalized retention efforts, ultimately aiming to expand its coverage and increase customer loyalty in this highly competitive market.
@@ -79,7 +92,7 @@ Web Scraping:  BeautifulSoup, Requests.
 <img width="350" alt="Final MLResults" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/e48add03-502e-4d7b-b71e-bd8feae0092e">
 
 ##### Report
-<img width="500" alt="FinalReport" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/2b3b21c2-8305-472d-ab1a-919777aa5b3d">
+<img width="600" alt="FinalReport" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/2b3b21c2-8305-472d-ab1a-919777aa5b3d">
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -94,11 +107,15 @@ Web Scraping:  BeautifulSoup, Requests.
 ##### Income Based on Gender & Age 
 <img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/f6bf2a78-91b4-4ed8-92b5-405b268d109e" width="300">
 
-##### Income Based on Education & Age 
+##### Income Based on Education & Age (PointPlot)
 <img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/56859e3e-f7e1-4c43-8baa-accacd0af2cc" width="300">
 
+##### Income Based on Education (BoxPlot)
+<img width="350" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/adf383c6-2b94-40a2-a122-5d4633f55c0c">
+
 ##### Report 
-<img width="500" alt="FinalReport" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/1f783fb6-64ef-4ea9-a907-bbdb531948e6">
+<img width="600" alt="FinalReport" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/f28caf6d-f4b2-4dbd-8323-e43c7863e10f">
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
