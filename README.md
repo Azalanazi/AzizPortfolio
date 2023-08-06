@@ -96,7 +96,7 @@ Web Scraping:  BeautifulSoup, Requests.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**- US Human Resources (HR) Data Analysis:** Insights into the US workforce were explored and examined. Various factors, such as gender distribution, education fields, and age groups, were studied, along with key numerical metrics related to the employees. Through thorough examination and visualization, valuable information was gained, shedding light on the composition and characteristics of the workforce.
+**- [US Human Resources (HR) Data Analysis](https://github.com/Azalanazi/Not-listed-Projects/blob/main/HR%20Data%20US.ipynb):** Insights into the US workforce were explored and examined. Various factors, such as gender distribution, education fields, and age groups, were studied, along with key numerical metrics related to the employees. Through thorough examination and visualization, valuable information was gained, shedding light on the composition and characteristics of the workforce.
 
 ##### Distribution Of Employees' Age
 <img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/4ec54a61-0d06-480d-927a-d054fa838acd" width="300">
