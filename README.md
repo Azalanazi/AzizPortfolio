@@ -2,7 +2,7 @@
 This is a portfolio that contains Data Science and Analysis projects made for Academic, Self-Learning, and Professional Purposes. 
 
 ## Hello and Welcome! 
-I'm Abdulaziz Alanazi, a 26-year-old data scientist from Saudi Arabia. I'm thrilled to be a passionate data enthusiast, with a genuine love for all things data. After obtaining my Bachelor of Computer Science, I extended my studies and earned a Master of Data Science to further deepen my knowledge and skills in this fascinating field. This journey has been incredibly enriching, and I can't wait to put all that I've learned into practice and continue to learn and grow. Join me on this exciting adventure as we explore the endless possibilities of data science together!
+I'm Abdulaziz Alanazi, a data scientist from Saudi Arabia with a year of professional experience. Passionate about data in all its forms, I hold a Bachelor's degree in Computer Science and completed my Master's in Data Science. This journey has been enriching, and I'm eager to apply my skills in practical settings while continuing to learn and grow. Join me as we explore the boundless opportunities of data science together!
 
 <img width="600" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/5a442760-21f7-4753-be34-5ca056a1aa84">   
 
