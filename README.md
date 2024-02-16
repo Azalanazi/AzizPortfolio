@@ -8,7 +8,7 @@ I'm Abdulaziz Alanazi, a data scientist from Saudi Arabia with a year of profess
 
                                                                                              Ksa= +966547858701
                                                                                              US= +17209982855                             
-                                                                                             Email: Abdulaziz.edu11@gmail.com                                                                                                                          
+                                                                                             Email: Abdulaziz.aldeedab@gmail.com                                                                                                                          
                                                                                                                           
 ______________________________________________________________________________________________________________________________
 
