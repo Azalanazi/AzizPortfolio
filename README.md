@@ -2,12 +2,12 @@
 This is a portfolio that contains Data Science and Analysis projects made for Academic, Self-Learning, and Professional Purposes. 
 
 ## Hello and Welcome! 
-I'm Abdulaziz Alanazi, a data scientist from Saudi Arabia with a year of professional experience. Passionate about data in all its forms, I hold a Bachelor's degree in Computer Science and completed my Master's in Data Science. This journey has been enriching, and I'm eager to apply my skills in practical settings while continuing to learn and grow. Join me as we explore the boundless opportunities of data science together!
+I'm Abdulaziz Alanazi, a data scientist from Saudi Arabia with several years of experience in data analysis and ML. Passionate about data in all its forms, I hold a Bachelor's degree in Computer Science and completed my Master's in Data Science. This journey has been enriching, and I'm eager to apply my skills in practical settings while continuing to learn and grow. Join me as we explore the boundless opportunities of data science together!
 
 <img width="600" src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/5a442760-21f7-4753-be34-5ca056a1aa84">   
 
                                                                                              Ksa= +966547858701
-                                                                                             US= +17209982855                             
+                                                                                                                         
                                                                                              Email: Abdulaziz.aldeedab@gmail.com                                                                                                                          
                                                                                                                           
 ______________________________________________________________________________________________________________________________
@@ -26,9 +26,13 @@ _________________________________________________
 #### Tools: 
 Python: Pandas, Numpy, Matplotlib, Seaborn, Tweepy, NLTK. 
 
+Excel Spreadsheets, SQL, Flask
+
 Machine Learning: Scikit-learn, Keras, TensorFlow. 
 
-Web Scraping:  BeautifulSoup, Requests.
+Web Scraping:  BeautifulSoup, Requests
+
+
 
  **[- Fake News Detection - Text Analytics](https://github.com/Azalanazi/Fake-News-Detection/blob/main/Fake%20News%20Detection.ipynb)** This project involves detecting fake news in news articles. Labeled datasets, containing articles marked as "fake" or "real" news, are being worked on. An article from CNN Politics and political posts and news from Reddit has been obtained for analysis. The project is divided into two parts. First, the labeled dataset is analyzed and prepared to train and test supervised algorithms. Then, the same pre-trained algorithms are applied to the CNN Politics article and Reddit data to detect fake news. The goal is to identify fake news in these datasets and combat misinformation.
 
@@ -49,7 +53,7 @@ Web Scraping:  BeautifulSoup, Requests.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-**[- Multilingual Chatbot Movie Recommendation System - ML & NLP:](https://github.com/Azalanazi/Chatbot-Movie-Recommender-/blob/main/The%20Project's%20code.ipynb)** Develop a smart movie recommendation chatbot that processes and understands text in multiple languages, aiming to entertain users and solve the NLP challenge of effectively grasping human text, especially in Arabic. This chatbot will cater to non-English speakers in Arabia and India, providing helpful movie recommendations in their native language.
+**[- Multilingual Chatbot Movie Recommendation System - Flask & ML & NLP:](https://github.com/Azalanazi/Chatbot-Movie-Recommender-/blob/main/The%20Project's%20code.ipynb)** Develop a smart movie recommendation chatbot that processes and understands text in multiple languages, aiming to entertain users and solve the NLP challenge of effectively grasping human text, especially in ANLP. This chatbot will cater to non-English speakers in Arabia and India, providing helpful movie recommendations in their native language.
 
 ##### Top 50 Arabic Actores
 <img src="https://github.com/Azalanazi/AzizPortfolio/assets/89488361/c191c5f6-b29c-40f9-9ec6-981dbd086566" width="300">
